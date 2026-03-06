@@ -458,17 +458,17 @@
 "county": "WA",
 "phone": "08 9351 0751",
 "min": "1",
-"max": "20",
+"max": "10",
 "type": "store",
 "active": "1",
 "mobile": "",
-"depotid": "15"
+"depotid": ""
 },
 "geometry": {
 "type": "Point",
 "coordinates": [
-115.763362,
--33.546536
+115.763593,
+-33.546251
 ]
 }
 },
@@ -2646,4 +2646,5 @@
 }
 ]
 } 
+
 
