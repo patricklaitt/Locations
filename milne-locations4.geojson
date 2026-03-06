@@ -164,8 +164,8 @@
 "type": "Feature",
 "properties": {
 "id": "569",
-"owner": "Lou Mercer & Craig Solly",
-"name": "Esperance  Bulk Depot",
+"owner": "Craig Solly",
+"name": "Esperance Bulk Depot",
 "address": "80 Brazier St, Esperance, WA, 6450",
 "shire": "Esperance",
 "postalcode": "6450",
@@ -443,6 +443,32 @@
 "coordinates": [
 117.8748,
 -34.99298
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "669",
+"owner": "Aaron & Rickie Bannister",
+"name": "Earth and Dirt",
+"address": "23 Billinghurst Rd, Argyle, WA, 6239",
+"shire": "Donnybrook",
+"postalcode": "6239",
+"county": "WA",
+"phone": "08 9351 0751",
+"min": "1",
+"max": "20",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": "15"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.763362,
+-33.546536
 ]
 }
 },
@@ -2620,3 +2646,4 @@
 }
 ]
 } 
+
