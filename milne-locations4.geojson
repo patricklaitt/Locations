@@ -716,6 +716,33 @@
 {
 "type": "Feature",
 "properties": {
+"id": "621",
+"owner": "",
+"name": "Bird and Fish/West Coast Pet Supplies",
+"address": "12 Lewis Rd Wattle Grove W.A.",
+"shire": "WATTLE GROVE",
+"postalcode": "6107",
+"county": "WA",
+"phone": "04 1793 2240",
+"fax": "",
+"min": "4",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.01003,
+-32.00367
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
 "id": "594",
 "owner": "",
 "name": "Brigadoon Produce",
@@ -1486,33 +1513,6 @@
 "coordinates": [
 121.4643,
 -30.75117
-]
-}
-},
-{
-"type": "Feature",
-"properties": {
-"id": "621",
-"owner": "",
-"name": "Bird and Fish/West Coast Pet Supplies",
-"address": "12 Lewis Rd Wattle Grove W.A.",
-"shire": "WATTLE GROVE",
-"postalcode": "6107",
-"county": "WA",
-"phone": "04 1793 2240",
-"fax": "",
-"min": "4",
-"max": "10",
-"type": "store",
-"active": "1",
-"mobile": "",
-"depotid": ""
-},
-"geometry": {
-"type": "Point",
-"coordinates": [
-116.01003,
--32.00367
 ]
 }
 },
