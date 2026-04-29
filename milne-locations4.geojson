@@ -108,6 +108,58 @@
 }
 },
 {
+  "type": "Feature",
+  "properties": {
+    "id": "6",
+    "owner": "WCT Rural",
+    "name": "Ceduna Depot",
+    "address": "1 Schwarz Street, Ceduna, SA, 5690",
+    "shire": "Ceduna",
+    "postalcode": "5690",
+    "county": "SA",
+    "phone": "08 8625 2260",
+    "min": "1",
+    "max": "20",
+    "type": "depot",
+    "active": "1",
+    "mobile": "",
+    "depotid": "16"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      133.6858979,
+      -32.121464
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "6",
+    "owner": "Andrew Grieg",
+    "name": "Crystal Brook Depot",
+    "address": "10099 Princes Hwy, Crystal Brook, SA, 5523",
+    "shire": "Crystal Brook",
+    "postalcode": "5523",
+    "county": "SA",
+    "phone": "",
+    "min": "1",
+    "max": "20",
+    "type": "depot",
+    "active": "1",
+    "mobile": "0427 362 376",
+    "depotid": "17"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.1839096,
+      -33.3161277
+    ]
+  }
+},
+{
 "type": "Feature",
 "properties": {
 "id": "576",
@@ -237,6 +289,32 @@
 -33.708115
 ]
 }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "12",
+    "owner": "Steve Whillas",
+    "name": "Kimba Depot",
+    "address": "Pile Pudla Road, Kimba, SA, 5641",
+    "shire": "Kimba",
+    "postalcode": "5641",
+    "county": "SA",
+    "phone": "",
+    "min": "1",
+    "max": "20",
+    "type": "depot",
+    "active": "1",
+    "mobile": "0458 852 268",
+    "depotid": "18"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.42485718456103,
+      -33.11830801919461
+    ]
+  }
 },
 {
 "type": "Feature",
@@ -393,6 +471,58 @@
 ]
 }
 },
+{
+  "type": "Feature",
+  "properties": {
+    "id": "19",
+    "owner": "EPIC",
+    "name": "Sales EPIC",
+    "address": "37 High Street, Kimba, SA, 5641",
+    "shire": "Kimba",
+    "postalcode": "5641",
+    "county": "SA",
+    "phone": "08 8627 2304",
+    "min": "1",
+    "max": "20",
+    "type": "depot",
+    "active": "1",
+    "mobile": "",
+    "depotid": "19"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      136.419721,
+      -33.1392035
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "20",
+    "owner": "WCT Rural",
+    "name": "Wudinna Depot",
+    "address": "68 Eyre Hwy, Wudinna, SA, 5652",
+    "shire": "Wudinna",
+    "postalcode": "5652",
+    "county": "SA",
+    "phone": "08 8680 2388",
+    "min": "1",
+    "max": "20",
+    "type": "depot",
+    "active": "1",
+    "mobile": "",
+    "depotid": "20"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.4660281,
+      -33.0548249
+    ]
+  }
+}
 {
 "type": "Feature",
 "properties": {
