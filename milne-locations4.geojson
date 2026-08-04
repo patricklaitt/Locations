@@ -216,26 +216,26 @@
 "type": "Feature",
 "properties": {
 "id": "569",
-"owner": "Craig Solly",
+"owner": "Treloar Transport",
 "name": "Esperance Bulk Depot",
-"address": "80 Brazier St, Esperance, WA, 6450",
+"address": "1434 South Coast Huy, Dalyup WA 6458",
 "shire": "Esperance",
 "postalcode": "6450",
 "county": "WA",
-"phone": "08 9071 1020",
-"fax": "Craig - 0483 223 165",
+"phone": "",
+"fax": "",
 "min": "1",
 "max": "20",
 "type": "depot",
 "active": "1",
-"mobile": "",
+"mobile": "8467 616 857",
 "depotid": "3"
 },
 "geometry": {
 "type": "Point",
 "coordinates": [
-121.884202,
--33.852589
+121.487514,
+-33.691663
 ]
 }
 },
